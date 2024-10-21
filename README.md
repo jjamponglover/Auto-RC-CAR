@@ -23,12 +23,8 @@
 * 마이크를 이용한 ON/OFF 제어 기능
 
 # ◾ Operation Video
-* 바람 세기 조절 https://youtu.be/amxgnFB1-bU
-* 좌우 회전 https://youtu.be/bPgRiU4fNQI
-* LED 밝기 조절 https://youtu.be/zgUzKCOYaRg
-* 안전 거리 인식 https://youtu.be/eSFNrJpX_fQ
-* 박수 인식 https://youtu.be/nkvddNRvoq0
-* 부저 알람 https://youtu.be/Eb78H_71BTU
+* 자율 주행 : https://www.youtube.com/watch?v=15SFHVygQ00
+* 원격 조종 : 
 
 # ◾ PPT
 https://www.miricanvas.com/v/137nv2j
