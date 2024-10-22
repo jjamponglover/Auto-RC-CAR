@@ -12,6 +12,7 @@
 * 18650 3.6V 배터리 : 보드에 외부전원, DC모터에 전원공급
 * HC-SR04 : 초음파로 거리 측정 -> 자율주행 모드
 * 수동부저 : 후진 시 노래 재생, 경적 소리
+* FreeRTOS CMSIS-RTOS V2 : 동시 동작
 
 # ◾ Operation Video
 * 자율 주행 : https://www.youtube.com/watch?v=15SFHVygQ00
