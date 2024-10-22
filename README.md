@@ -1,7 +1,7 @@
 # ◾ Auto-RC-CAR
 <h3> 초음파센서와 블루투스를 사용한 자율주행 원격조종 자동차 <img alt="Static Badge" src="https://img.shields.io/badge/C-00599C"> <img alt="Static Badge" src="https://img.shields.io/badge/STM32-2ECCFA"> 
 </h3>
-<img src = "https://github.com/user-attachments/assets/9c7252f0-f630-4cd5-9afd-28962c2012e7" width="50%" height="50%">
+<img src = "https://github.com/user-attachments/assets/1b1d4e50-cee0-44cb-b333-efe84798ec7a" width="50%" height="50%">
 
 # ◾ Introduce
 * Nucleo F411RE 보드를 이용 RC-CAR를 구현
