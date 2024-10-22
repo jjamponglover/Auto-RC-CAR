@@ -4,14 +4,14 @@
 <img src = "https://github.com/user-attachments/assets/9c7252f0-f630-4cd5-9afd-28962c2012e7" width="50%" height="50%">
 
 # ◾ Introduce
-* FPGA(Cora z7) 보드를 이용 DC모터를 사용하여 선풍기를 구현
-* Verilog언어를 Vivado 프로그램을 사용하여 설계
+* Nucleo F411RE 보드를 이용 RC-CAR를 구현
+* C언어를 STM32CubeIDE 프로그램을 사용하여 설계
 
 # ◾ Basic Features
-* 전원 및 바람 세기 조절 3단계
-* LED 밝기 3단계
-* 타이머 1 3 5 시간 조절
-* 바람세기 및 LED밝기 버튼 오래 누르면 OFF
+* HC-05 : 블루투스로 연결된 컨트롤러로 원격조종 -링크-
+* 18650 3.6V 배터리 : 보드에 외부전원, DC모터에 전원공급
+* HC-SR04 : 초음파로 거리 측정 -> 자율주행 모드
+* 수동부저 : 후진 시 노래 재생, 경적 소리
 
 # ◾ Operation Video
 * 자율 주행 : https://www.youtube.com/watch?v=15SFHVygQ00
